@@ -1,0 +1,21 @@
+<!-- Header section -->
+<header>
+  <h1> Sweet Message for [Crush's Name] </h1>
+</header>
+
+<!-- Huge text section -->
+<section class="huge-text">
+  <h2> In case nobody told you today, I'm going to tell you... </h2>
+</section>
+
+<!-- Button section -->
+<section class="button">
+  <button class="btn btn-primary"> Click me! </button>
+</section>
+
+<!-- Animation section (hidden by default) -->
+<section class="animation" style="display: none;">
+  <h2> You're gorgeous! </h2>
+</section>
+
+<script src="script.js"></script>
